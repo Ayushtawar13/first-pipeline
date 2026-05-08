@@ -4,5 +4,8 @@
   "scripts": {
     "test": "echo Test Passed",
     "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
